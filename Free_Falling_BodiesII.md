@@ -21,3 +21,16 @@ If we modify step (2) so that we click on several points, then the result of ste
 
 #### Solution:
 https://www.wolframcloud.com/obj/28b21416-d2ce-4221-981f-8b3ccd627867
+
+### Example2
+A ball is tossed upward from the ground at a rate of 200 feet/sec, while at the same moment a man is climbing a ladder at a rate of 5 feet/sec starting from a height of 100 feet. UseMathematica to plot a graph of the height function for each the man and the ball, and use this to approximate the times at which the man and the ball will be at the same height and at what height this will occur.
+
+Solution:
+https://www.wolframcloud.com/obj/4f8ae08d-ee00-4fbe-ac97-9468416a9230
+
+### Example3
+Plotagraphofthecurvesy=-x+2andy=exandfromthisgraphmakean approximation of the values of the coordinates of the point where the curves cross, thus obtaining a solution of the equation
+-x + 2 = e^x
+
+Solution:
+https://www.wolframcloud.com/obj/a22c6397-e966-4fad-85f6-eab0402af9be
