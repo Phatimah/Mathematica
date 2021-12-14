@@ -34,7 +34,17 @@ https://www.wolframcloud.com/obj/b34e1a46-11c8-4561-8c4e-2c9b767b091d
  
 
 
+## Solving System of Equations
+
 ### Example3
+Use Mathematica to obtain the real, numerical solutions of the system of equations
+x - 3 y + 4 x y = 10
+x2 -2y2 =8
+
+Solution:
+https://www.wolframcloud.com/obj/6e65c828-3fa8-4f69-9d12-524c867bf9b1
+
+### Example4
 A ball is tossed upward from the ground at a rate of 200 feet/sec, while at the same moment a man is climbing a ladder at a rate 
 of 5 feet/sec starting from a height of 100 feet. At what time will the man and the ball be at the same height, and at what height will 
 this occur?
@@ -44,4 +54,4 @@ We can implement Mathematica to find the values of t and y that satisfy both equ
 simultaneously with the command in the link below:
 https://www.wolframcloud.com/obj/6e86338a-0fb6-4a95-ba8b-5d09f19a6aac
 
-## Example4
+
