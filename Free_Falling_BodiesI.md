@@ -23,10 +23,14 @@ https://www.wolframcloud.com/obj/555a4d57-d51e-4903-82a8-e85a931ea7b9
 
 ### Example2
 A stone is tossed upward at an initial velocity of 120 feet/sec from the edge of a cliff that drops down 500 feet to the sea below.
+
 a) At what time and at what height will the stone reach its maximum height?
+
 * Remember that the stone reaches its maximum height at the time in which velocity =0. 
 * Remember that the stone maximum height will be at the instant in which velocity =0. 
+
 b) At what time will the stone be at a height of 550 feet?
+
 c) At what time and at what velocity will the stone hit the surf below?
 
 Solution:
